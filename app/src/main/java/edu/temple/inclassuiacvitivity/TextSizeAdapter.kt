@@ -27,6 +27,4 @@ class TextSizeAdapter(private val context : Context, private val textSizes : Arr
         textView.setPadding(5, 10, 0, 18)
         return textView
     }
-
-
 }
